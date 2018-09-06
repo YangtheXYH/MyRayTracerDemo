@@ -1,0 +1,2 @@
+# MyRayTracerDemo
+参考Scratchapixel所写的简易RayTracer
